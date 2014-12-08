@@ -1,7 +1,8 @@
 MAS.500 OpenFrameworks iOS Example
 ==================================
+ 
+ Changed the color of the circle based on the position of the touch.
 
-This is a tiny iOS example for OpenFrameworks. I made two fixes to get this to build in Xcode 6 on Mavericks.
 
 Installation
 ------------
